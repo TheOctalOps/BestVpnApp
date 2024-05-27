@@ -1,6 +1,8 @@
 <body>
   <h1>BestVpnApp</h1>
   <p>Welcome to the BestVpnApp repository! This repository serves as a gateway to our comprehensive VPN (Virtual Private Network) application designed to offer secure and private internet browsing.</p>
+
+  <img src="https://raw.githubusercontent.com/TheOctalOps/BestVpnApp/main/vpnthumb.png" alt="BestVpnApp Screenshot" width="600">
   
   <h2>Key Features</h2>
   <ul>
